@@ -1,0 +1,21 @@
+body {
+    background-color: pink;
+}
+
+.box1 {
+    width: 100px;
+    height: 100px;
+    background-image: url(./carousel_1.jpg);
+}
+
+.box2 {
+    width: 100px;
+    height: 100px;
+    background-image: url(./carousel_2.jpg);
+}
+
+.box3 {
+    width: 100px;
+    height: 100px;
+    background-image: url(./carousel_3.jpg);
+}
